@@ -1,8 +1,34 @@
+```
+
+     *#####  ((((((
+       %%%%%# .#####.
+         %%%%%, (#####
+          (%%%%%  #####/ *(((((((((((.
+            %%%%%( ,#####  ((((((((((.
+            %%%%%( *#######  ((((((((.
+          #%%%%%  ##########* *((((((.
+        .%%%%%. (#####  *#####
+       %%%%%# .#####.     ######
+     *#####  (((((/        .(((((.
+```
+
 # Haskell Stuff
 
-These are my Haskell learning code.
+These are my Haskell language learning codes.
 
-My inspiration is that I wanted to learn a fully functional programming language and I started that in 2014.
+## Inspiration
+
+My inspiration is that I wanted to learn a fully functional programming language, which I started in 2014.
+
+## Running
+
+## With Haskell compiler
+
+[You need to have GHCup installed.](https://www.haskell.org/ghcup/)
+
+## With Docker
+
+@todo
 
 ## License
 
